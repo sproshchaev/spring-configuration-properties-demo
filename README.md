@@ -1,3 +1,6 @@
+[![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=Java&logoColor=FFFFFF)](https://github.com/sproshchaev/java-top-basic/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-boot/)
+
 # spring-configuration-properties-demo
 
 В этом Demo пример работы с application.properties на основе:
